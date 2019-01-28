@@ -1,0 +1,24 @@
+{
+  "name": "web-push-services",
+  "version": "1.0.0",
+  "description": "Web Push Notification Full Stack Application With Node Js Restful API",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.13.18",
+    "q": "^1.5.1",
+    "web-push": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://172.16.1.16/devops/notificador.git"
+  },
+  "author": "Heberson Aguiar",
+  "license": "MIT"
+}
